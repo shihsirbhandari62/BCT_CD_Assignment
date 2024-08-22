@@ -1,6 +1,6 @@
 # BCT_CD_Assignment
 
-this si an bct cd assignment submission page
+this is an bct cd assignment submission page
 
 ```
     
