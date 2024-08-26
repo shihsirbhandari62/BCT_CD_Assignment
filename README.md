@@ -36,15 +36,7 @@ Replace `your-username` with your GitHub username.
 cd BCT_CD_Assignment
 ```
 
-2. Create a new branch for your changes:
-
-```bash
-git checkout -b your-branch-name
-```
-
-Replace `your-branch-name`  with a descriptive name for your branch.
-
-3. Make the necessary changes to the files.
+2. Make changes:
 
 ## Pushing Changes
 
